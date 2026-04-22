@@ -48,7 +48,7 @@ larabot/
 ### 1. Clonar o repositório
 
 ```
-git clone https://github.com/seu-usuario/LaraBot.git
+git clone https://github.com/LaraAlves22/LaraBot.git
 cd LaraBot
 ```
 
